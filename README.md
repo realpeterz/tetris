@@ -2,6 +2,11 @@
 
 A modern Tetris implementation built with React, TypeScript, and Vite.
 
+![Tetris Gameplay](./public/Tetris.png)
+
+![Tetris Gameplay (paused)](./public/Tetris-paused.png)
+
+
 ## Tech Stack
 
 - React 19
