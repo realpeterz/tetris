@@ -4,7 +4,7 @@ A modern Tetris implementation built with React, TypeScript, and Vite.
 
 ![Tetris Gameplay](./public/Tetris.png)
 
-![Tetris Gameplay (paused)](./public/Tetris-paused.png)
+![Tetris Gameplay (paused)](./public/Tetris-Paused.png)
 
 
 ## Tech Stack
